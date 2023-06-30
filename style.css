@@ -32,7 +32,9 @@ header{
   margin-left: 20px;
 }
 
-header.heading{
+
+
+header .heading{
   font-size: 32px;
 }
 
@@ -226,3 +228,4 @@ footer{
 .footer-text{
   color: #fff;
 }
+
